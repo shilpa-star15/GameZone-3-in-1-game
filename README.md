@@ -1,4 +1,4 @@
-3 in 1 Game made using python: tkinter and random modules.\n
-Roll and Score (Multiplayer Dice Game)\n
-Rock Paper Scissors\n
+3 in 1 Game made using python: tkinter and random modules.<br>
+Roll and Score (Multiplayer Dice Game)<br>
+Rock Paper Scissors<br>
 Tic Tac Toe (both multiplayer and with computer)
